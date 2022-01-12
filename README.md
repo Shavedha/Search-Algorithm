@@ -100,17 +100,23 @@ else:
     print("Element not found")
 ```
 ## Sample Input and Output
+```
 EXPERIMENT 1
+```
 INPUT:
 ![OUTPUT](./input.png)
   OUTPUT:
 ![OUTPUT](./linearsearch1.png)  
+```
 EXPERIMENT 2
+```
 INPUT:
 ![OUTPUT](./INPUT2.png)
 OUTPUT:
 ![OUTPUT](./linearsearch2.png)
+```
 EXPERIMENT 3
+```
 INPUT:
 ![otput](./inp3.png)
 OUTPUT:
